@@ -1,4 +1,4 @@
-👋 Mohamed Shehata - AI and Machine Learning Engineer
+# 👋 Mohamed Shehata - AI and Machine Learning Engineer
 
 Welcome to my portfolio! I’m Mohamed Shehata, an AI and Machine Learning Engineer based in Alexandria, Egypt. Explore my projects and see how I leverage cutting-edge AI techniques to solve complex problems.
 
